@@ -1,3 +1,5 @@
+Píšu tu něco nového, aby se neřeklo.
+
 # Hugo Start
 
 A simple hugo boilerplate showing some of Hugo's functionality.
